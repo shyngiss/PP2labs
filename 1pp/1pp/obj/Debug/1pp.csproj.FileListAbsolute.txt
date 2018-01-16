@@ -1,0 +1,7 @@
+C:\Users\Andy\Desktop\pp2\1pp\1pp\obj\Debug\1pp.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Desktop\pp2\1pp\1pp\obj\Debug\1pp.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Desktop\pp2\1pp\1pp\bin\Debug\1pp.exe.config
+C:\Users\Andy\Desktop\pp2\1pp\1pp\bin\Debug\1pp.exe
+C:\Users\Andy\Desktop\pp2\1pp\1pp\bin\Debug\1pp.pdb
+C:\Users\Andy\Desktop\pp2\1pp\1pp\obj\Debug\1pp.exe
+C:\Users\Andy\Desktop\pp2\1pp\1pp\obj\Debug\1pp.pdb
